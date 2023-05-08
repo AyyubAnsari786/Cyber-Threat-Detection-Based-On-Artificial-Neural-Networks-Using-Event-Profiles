@@ -1,0 +1,2 @@
+python CyberThreatDetection.py
+pause
